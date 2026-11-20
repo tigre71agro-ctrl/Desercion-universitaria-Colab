@@ -1,0 +1,6 @@
+﻿Decision,Justificacion,Alternativa descartada,Efecto
+Conservar registros,No se encontraron faltantes ni duplicados,Eliminar observaciones,Se conservan 4424 registros
+Conservar edades elevadas,Las edades pueden corresponder a estudiantes adultos,Excluir mayores de 40 años,Se conservan 225 casos
+Mantener calificaciones cero,No se comprobo que fueran errores,Imputar las calificaciones,No se modifican las notas
+Crear tasas de aprobacion,Permite comparar el rendimiento academico,Utilizar solo asignaturas aprobadas,Se agregan 2 variables
+Asignar NaN sin matricula,Evita divisiones entre cero,Asignar tasa igual a cero,180 NaN por semestre
